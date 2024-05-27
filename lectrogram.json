@@ -1,0 +1,46 @@
+{
+  "branding": {
+    "png": {
+      "lectogram_iso_inv": "dist/branding/png/lectogram_iso-inv.png",
+      "lectogram_iso": "dist/branding/png/lectogram_iso.png",
+      "lectogram_isotipo_inv": "dist/branding/png/lectogram_isotipo-inv.png",
+      "lectogram_isotipo": "dist/branding/png/lectogram_isotipo.png",
+      "lectogram_logo_hz": "dist/branding/png/lectogram_logo-hz.png",
+      "lectogram_logo_sq_inv": "dist/branding/png/lectogram_logo-sq-inv.png",
+      "lectogram_logo_sq": "dist/branding/png/lectogram_logo-sq.png"
+    },
+    "svg": {
+      "lectogram_iso_inv": "dist/branding/svg/lectogram_iso-inv.svg",
+      "lectogram_iso": "dist/branding/svg/lectogram_iso.svg",
+      "lectogram_isotipo_inv": "dist/branding/svg/lectogram_isotipo-inv.svg",
+      "lectogram_isotipo": "dist/branding/svg/lectogram_isotipo.svg",
+      "lectogram_logo_hz": "dist/branding/svg/lectogram_logo-hz.svg",
+      "lectogram_logo_sq_inv": "dist/branding/svg/lectogram_logo-sq-inv.svg",
+      "lectogram_logo_sq": "dist/branding/svg/lectogram_logo-sq.svg"
+    }
+  },
+  "places": {
+    "png": {
+      "kitchen": "dist/places/png/kitchen.png",
+      "bedroom": "dist/places/png/bedroom.png"
+      // Agregar otros lugares aquí...
+    },
+    "svg": {
+      "kitchen": "dist/places/svg/kitchen.svg",
+      "bedroom": "dist/places/svg/bedroom.svg"
+      // Agregar otros lugares aquí...
+    }
+  },
+  "tasks": {
+    "png": {
+      "washing_dishes": "dist/tasks/png/washing_dishes.png",
+      "making_bed": "dist/tasks/png/making_bed.png"
+      // Agregar otras tareas aquí...
+    },
+    "svg": {
+      "washing_dishes": "dist/tasks/svg/washing_dishes.svg",
+      "making_bed": "dist/tasks/svg/making_bed.svg"
+      // Agregar otras tareas aquí...
+    }
+  }
+}
