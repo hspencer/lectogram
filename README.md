@@ -5,6 +5,11 @@
 ### FONDEF ID23I10034
 Lectogram es un proyecto diseñado para generar apoyos procedimentales para adultos con demencia en el hogar, facilitando la realización de sus tareas diarias mediante el uso de pictogramas.
 
+Este repositorio contiene los archivos de:
+- [Marca](branding.md)
+- [Lugares](places.md)
+- [Tareas](tasks.md)
+
 ## Estructura del repositorio
 - `src/`: Contiene los archivos fuente en formato .ai (Adobe Illustrator).
   - `lectogram-branding.ai`: Logo e isotipo de marca.
