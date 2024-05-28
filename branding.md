@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td style="background: white">
+<td style="background: white !important">
 
 ![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo.png)
 
