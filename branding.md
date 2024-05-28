@@ -4,46 +4,24 @@
 
 <table>
 <tr>
-<td style="background: white !important">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo.png)
-
+<td style="background-color: white; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_isotipo.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
-<td style="background: black">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo-inv.png)
-
+<td style="background-color: black; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_isotipo-inv.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
 </tr>
 </table>
-
-
-
-<div style="background: white !important">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo.png)
-
-</div>
-<div style="background: black">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo-inv.png)
-
-</div>
-
 
 ## Isotipo
 
 <table>
 <tr>
-<td style="background: white">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_iso.png)
-
+<td style="background-color: white; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_iso.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
-<td style="background: black">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_iso-inv.png)
-
+<td style="background-color: black; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_iso-inv.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
 </tr>
 </table>
@@ -52,15 +30,11 @@
 
 <table>
 <tr>
-<td style="background: white">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-sq.png)
-
+<td style="background-color: white; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_logo-sq.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
-<td style="background: black">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-sq-inv.png)
-
+<td style="background-color: black; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_logo-sq-inv.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
 </tr>
 </table>
@@ -69,9 +43,8 @@
 
 <table>
 <tr>
-<td style="background: white">
-
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-hz.png)
+<td style="background-color: white; padding: 10px;">
+  <img src="dist/branding/png/lectrogram_logo-hz.png" alt="Lectogram: Isotipo" style="display: block; margin: auto;">
 </td>
 </tr>
 </table>
