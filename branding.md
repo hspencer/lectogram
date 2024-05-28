@@ -17,6 +17,20 @@
 </tr>
 </table>
 
+
+
+<div style="background: white !important">
+
+![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo.png)
+
+</div>
+<div style="background: black">
+
+![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo-inv.png)
+
+</div>
+
+
 ## Isotipo
 
 <table>
