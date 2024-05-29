@@ -1,4 +1,10 @@
 {
+  "name": "Lectogram Pictograms",
+  "version": "0.0.1",
+  "authors": [
+    "Herbert Spencer",
+    "Martina Spencer"
+  ],
   "branding": {
     "png": {
       "lectogram_iso_inv": "dist/branding/png/lectogram_iso-inv.png",
@@ -19,28 +25,46 @@
       "lectogram_logo_sq": "dist/branding/svg/lectogram_logo-sq.svg"
     }
   },
-  "places": {
-    "png": {
-      "kitchen": "dist/places/png/kitchen.png",
-      "bedroom": "dist/places/png/bedroom.png"
-      // Agregar otros lugares aquí...
+  "places": [
+    {
+      "name": "Bathroom",
+      "image": "dist/places/places_bathroom.png"
     },
-    "svg": {
-      "kitchen": "dist/places/svg/kitchen.svg",
-      "bedroom": "dist/places/svg/bedroom.svg"
-      // Agregar otros lugares aquí...
-    }
-  },
-  "tasks": {
-    "png": {
-      "washing_dishes": "dist/tasks/png/washing_dishes.png",
-      "making_bed": "dist/tasks/png/making_bed.png"
-      // Agregar otras tareas aquí...
+    {
+      "name": "Bedroom",
+      "image": "dist/places/places_bedroom.png"
     },
-    "svg": {
-      "washing_dishes": "dist/tasks/svg/washing_dishes.svg",
-      "making_bed": "dist/tasks/svg/making_bed.svg"
-      // Agregar otras tareas aquí...
+    {
+      "name": "Corridor",
+      "image": "dist/places/places_corridor.png"
+    },
+    {
+      "name": "Dining Room",
+      "image": "dist/places/places_dining-room.png"
+    },
+    {
+      "name": "Garage",
+      "image": "dist/places/places_garage.png"
+    },
+    {
+      "name": "Garden",
+      "image": "dist/places/places_garden.png"
+    },
+    {
+      "name": "Kitchen",
+      "image": "dist/places/places_kitchen.png"
+    },
+    {
+      "name": "Laundry",
+      "image": "dist/places/places_laundry.png"
+    },
+    {
+      "name": "Living Room",
+      "image": "dist/places/places_living-room.png"
+    },
+    {
+      "name": "Study",
+      "image": "dist/places/places_study.png"
     }
-  }
+  ]
 }
