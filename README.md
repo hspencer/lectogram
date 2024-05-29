@@ -19,28 +19,10 @@ Este repositorio contiene los archivos de:
   - `branding/`: Pictogramas de marca optimizados (png, svg).
   - `places/`: Pictogramas de lugares optimizados.
   - `tasks/`: Pictogramas de tareas optimizados.
-- `lectogram.json`: Archivo JSON con la metadata de los pictogramas.
+- `lectogram.json`: Archivo JSON con la con la biblioteca visual de lectogram (marca y pictogramas).
 
 ## Uso
-Para utilizar los íconos en tu proyecto, simplemente importa los archivos SVG desde la carpeta `dist` como paquete a partir de `lectogram.json`:
-
-```json
-{
-  "branding": {
-    "logo": "dist/branding/logo.svg"
-  },
-  "places": {
-    "kitchen": "dist/places/kitchen.svg",
-    "bedroom": "dist/places/bedroom.svg"
-    // otros lugares...
-  },
-  "tasks": {
-    "washing-dishes": "dist/tasks/washing-dishes.svg",
-    "making-bed": "dist/tasks/making-bed.svg"
-    // otras tareas...
-  }
-}
-```
+Para utilizar los íconos en tu proyecto, simplemente importa los archivos SVG desde la carpeta `dist` como paquete a partir de [lectogram.json](lectogram.json).
 
 #### Licencia
 
