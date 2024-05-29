@@ -1,5 +1,7 @@
 # Marca
 
+Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro). Desafortunadamente Github desactiva los fondos blanco-negro para esta visualización.
+
 ## Isotipo + logo
 
 <table>
