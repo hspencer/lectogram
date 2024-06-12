@@ -26,4 +26,4 @@ Para utilizar los íconos en tu proyecto, simplemente importa los archivos SVG d
 
 #### Licencia
 
-Este proyecto está bajo la licencia de copyright de la Universidad de las Américas. Ver [licencia](LICENSE).
+Este proyecto está bajo la licencia de copyright de la Universidad de las Américas. Ver [licencia](LICENSE.md).

@@ -64,3 +64,9 @@ Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro
 </td>
 </tr>
 </table>
+
+### Íconos para Alexa Store
+
+![ícono pequeño - 108 x 108 píxeles](dist/branding/png/alexa-icon_small.png)
+
+![ícono grande - 512 x 512 píxeles](dist/branding/png/alexa-icon_large.png)
