@@ -8,12 +8,12 @@ Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro
 <tr>
 <td style="background: white">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo.png)
+![Lectogram: Isotipo](/dist/branding/png/lectrogram-branding_isotipo.png)
 
 </td>
 <td style="background: black">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_isotipo-inv.png)
+![Lectogram: Isotipo](/dist/branding/png/lectrogram-branding_isotipo-inv.png)
 
 </td>
 </tr>
@@ -26,12 +26,12 @@ Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro
 <tr>
 <td style="background: white">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_iso.png)
+![Lectogram: Isotipo](dist/branding/png/iso.png)
 
 </td>
 <td style="background: black">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_iso-inv.png)
+![Lectogram: Isotipo](dist/branding/png/lectrogram-branding_iso-inv.png)
 
 </td>
 </tr>
@@ -43,12 +43,12 @@ Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro
 <tr>
 <td style="background: white">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-sq.png)
+![Lectogram: Isotipo](dist/branding/png/lectrogram-branding_logo-sq.png)
 
 </td>
 <td style="background: black">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-sq-inv.png)
+![Lectogram: Isotipo](dist/branding/png/lectrogram-branding_logo-sq-inv.png)
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ Nota: la marca lectogram está con contraste invertido (modo oscuro - modo claro
 <tr>
 <td style="background: white">
 
-![Lectogram: Isotipo](dist/branding/png/lectrogram_logo-hz.png)
+![Lectogram: Isotipo](dist/branding/png/lectrogram-branding_logo-hz.png)
 </td>
 </tr>
 </table>

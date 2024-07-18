@@ -8,7 +8,7 @@ Lectogram es un proyecto diseñado para generar apoyos procedimentales para adul
 Este repositorio contiene los archivos de:
 - [Marca](branding.md)
 - [Lugares](places.md)
-- [Tareas](tasks.md)
+- [Rutinas](tasks.md)
 
 ## Estructura del repositorio
 - `src/`: Contiene los archivos fuente en formato .ai (Adobe Illustrator).
