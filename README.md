@@ -1,6 +1,7 @@
 # Lectogram: Biblioteca Visual
 
 ![isotipo de lectogram](dist/branding/png/isotipo.png)
+
 ` LECTOGRAM: sistema de apoyo a la ejecución de actividades de la vida diaria para personas con demencia `
 
 ### FONDEF ID23I10034
