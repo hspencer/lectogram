@@ -1,31 +1,31 @@
 # Lugares de la casa
 
-## Bathroom
+## Baño
 ![Bathroom](dist/places/places_bathroom.png)
 
-## Bedroom
+## Dormitorio
 ![Bedroom](dist/places/places_bedroom.png)
 
-## Corridor
+## Pasillo
 ![Corridor](dist/places/places_corridor.png)
 
-## Dining Room
+## Comedor
 ![Dining Room](dist/places/places_dining-room.png)
 
 ## Garage
 ![Garage](dist/places/places_garage.png)
 
-## Garden
+## Jardín
 ![Garden](dist/places/places_garden.png)
 
-## Kitchen
+## Cocina
 ![Kitchen](dist/places/places_kitchen.png)
 
-## Laundry
+## Logia o lavandería
 ![Laundry](dist/places/places_laundry.png)
 
-## Living Room
+## Sala de estar (living)
 ![Living Room](dist/places/places_living-room.png)
 
-## Study
+## Escritorio
 ![Study](dist/places/places_study.png)

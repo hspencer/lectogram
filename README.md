@@ -1,12 +1,13 @@
 # Lectogram: Biblioteca Visual
 
+![isotipo de lectogram](dist/branding/png/isotipo.png)
 ` LECTOGRAM: sistema de apoyo a la ejecución de actividades de la vida diaria para personas con demencia `
 
 ### FONDEF ID23I10034
 Lectogram es un proyecto diseñado para generar apoyos procedimentales para adultos con demencia en el hogar, facilitando la realización de sus tareas diarias mediante el uso de pictogramas.
 
 Este repositorio contiene los archivos de:
-- [Marca](branding.md)
+- [Marca Lectogram](branding.md)
 - [Lugares](places.md)
 - [Rutinas](tasks.md)
 
