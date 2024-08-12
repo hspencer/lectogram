@@ -27,44 +27,362 @@
   },
   "places": [
     {
-      "name": "Bathroom",
+      "name": "Baño",
       "image": "dist/places/places_bathroom.png"
     },
     {
-      "name": "Bedroom",
+      "name": "Dormitorio",
       "image": "dist/places/places_bedroom.png"
     },
     {
-      "name": "Corridor",
+      "name": "Pasillo",
       "image": "dist/places/places_corridor.png"
     },
     {
-      "name": "Dining Room",
+      "name": "Comedor",
       "image": "dist/places/places_dining-room.png"
     },
     {
-      "name": "Garage",
+      "name": "Garaje",
       "image": "dist/places/places_garage.png"
     },
     {
-      "name": "Garden",
+      "name": "Jardín",
       "image": "dist/places/places_garden.png"
     },
     {
-      "name": "Kitchen",
+      "name": "Cocina",
       "image": "dist/places/places_kitchen.png"
     },
     {
-      "name": "Laundry",
+      "name": "Lavandería",
       "image": "dist/places/places_laundry.png"
     },
     {
-      "name": "Living Room",
+      "name": "Sala de estar",
       "image": "dist/places/places_living-room.png"
     },
     {
-      "name": "Study",
+      "name": "Escritorio",
       "image": "dist/places/places_study.png"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Apagar las luces antes de dormir",
+      "image": "dist/tasks/Apagar-las-luces-antes-de-dormir.png"
+    },
+    {
+      "name": "Apagar los dispositivos electrónicos al final del día",
+      "image": "dist/tasks/Apagar-los-dispositivos-electronicos-al-final-del-dia.png"
+    },
+    {
+      "name": "Apagar los dispositivos electrónicos",
+      "image": "dist/tasks/Apagar-los-dispositivos-electronicos.png"
+    },
+    {
+      "name": "Barrer el suelo",
+      "image": "dist/tasks/Barrer-el-suelo.png"
+    },
+    {
+      "name": "Cambiar las ampolletas",
+      "image": "dist/tasks/Cambiar-las-ampolletas.png"
+    },
+    {
+      "name": "Cambiar las sábanas",
+      "image": "dist/tasks/Cambiar-las-sabanas.png"
+    },
+    {
+      "name": "Cambiar las toallas",
+      "image": "dist/tasks/Cambiar-las-toallas.png"
+    },
+    {
+      "name": "Cepillarse los dientes",
+      "image": "dist/tasks/Cepillarse-los-dientes.png"
+    },
+    {
+      "name": "Cerrar correctamente las puertas y ventanas",
+      "image": "dist/tasks/Cerrar-correctamente-las-puertas-y-ventanas.png"
+    },
+    {
+      "name": "Colgar la ropa en el tendedero",
+      "image": "dist/tasks/Colgar-la-ropa-en-el-tendedero.png"
+    },
+    {
+      "name": "Doblar la ropa limpia",
+      "image": "dist/tasks/Doblar-la-ropa-limpia.png"
+    },
+    {
+      "name": "Ducharse o bañarse",
+      "image": "dist/tasks/Ducharse-o-banarse.png"
+    },
+    {
+      "name": "Guardar los objetos personales",
+      "image": "dist/tasks/Guardar-los-objetos-personales.png"
+    },
+    {
+      "name": "Guardar los utensilios de cocina",
+      "image": "dist/tasks/Guardar-los-utensilios-de-cocina.png"
+    },
+    {
+      "name": "Hacer la cama",
+      "image": "dist/tasks/Hacer-la-cama.png"
+    },
+    {
+      "name": "Hacer la colada",
+      "image": "dist/tasks/Hacer-la-colada.png"
+    },
+    {
+      "name": "Hacer una lista de tareas de jardinería",
+      "image": "dist/tasks/Hacer-una-lista-de-tareas-de-jardineria.png"
+    },
+    {
+      "name": "Lavar los platos",
+      "image": "dist/tasks/Lavar-los-platos.png"
+    },
+    {
+      "name": "Limpiar el espejo",
+      "image": "dist/tasks/Limpiar-el-espejo.png"
+    },
+    {
+      "name": "Limpiar el inodoro",
+      "image": "dist/tasks/Limpiar-el-inodoro.png"
+    },
+    {
+      "name": "Limpiar el lavabo",
+      "image": "dist/tasks/Limpiar-el-lavabo.png"
+    },
+    {
+      "name": "Limpiar el polvo de las superficies",
+      "image": "dist/tasks/Limpiar-el-polvo-de-las-superficies.png"
+    },
+    {
+      "name": "Limpiar el polvo de los muebles",
+      "image": "dist/tasks/Limpiar-el-polvo-de-los-muebles.png"
+    },
+    {
+      "name": "Limpiar el pomo de las puertas",
+      "image": "dist/tasks/Limpiar-el-pomo-de-las-puertas.png"
+    },
+    {
+      "name": "Limpiar el suelo",
+      "image": "dist/tasks/Limpiar-el-suelo.png"
+    },
+    {
+      "name": "Limpiar el teclado y la pantalla del ordenador",
+      "image": "dist/tasks/Limpiar-el-teclado-y-la-pantalla-del-ordenador.png"
+    },
+    {
+      "name": "Limpiar la bañera o la ducha",
+      "image": "dist/tasks/Limpiar-la-banera-o-la-ducha.png"
+    },
+    {
+      "name": "Limpiar la encimera",
+      "image": "dist/tasks/Limpiar-la-encimera.png"
+    },
+    {
+      "name": "Limpiar la lavadora y secadora",
+      "image": "dist/tasks/Limpiar-la-lavadora-y-secadora.png"
+    },
+    {
+      "name": "Limpiar la mesa después de comer",
+      "image": "dist/tasks/Limpiar-la-mesa-despues-de-comer.png"
+    },
+    {
+      "name": "Limpiar las hojas caídas",
+      "image": "dist/tasks/Limpiar-las-hojas-caidas.png"
+    },
+    {
+      "name": "Limpiar las superficies",
+      "image": "dist/tasks/Limpiar-las-superficies.png"
+    },
+    {
+      "name": "Limpiar los contenedores de almacenamiento",
+      "image": "dist/tasks/Limpiar-los-contenedores-de-almacenamiento.png"
+    },
+    {
+      "name": "Limpiar los electrodomésticos",
+      "image": "dist/tasks/Limpiar-los-electrodomesticos.png"
+    },
+    {
+      "name": "Limpiar los espejos",
+      "image": "dist/tasks/Limpiar-los-espejos.png"
+    },
+    {
+      "name": "Limpiar los muebles de exterior",
+      "image": "dist/tasks/Limpiar-los-muebles-de-exterior.png"
+    },
+    {
+      "name": "Ordenar la mesita de noche",
+      "image": "dist/tasks/Ordenar-la-mesita-de-noche.png"
+    },
+    {
+      "name": "Ordenar los lápices y bolígrafos",
+      "image": "dist/tasks/Ordenar-los-lapices-y-boligrafos.png"
+    },
+    {
+      "name": "Ordenar los objetos decorativos",
+      "image": "dist/tasks/Ordenar-los-objetos-decorativos.png"
+    },
+    {
+      "name": "Ordenar los productos de automóvil",
+      "image": "dist/tasks/Ordenar-los-productos-de-automovil.png"
+    },
+    {
+      "name": "Ordenar los productos de lavandería",
+      "image": "dist/tasks/Ordenar-los-productos-de-lavanderia.png"
+    },
+    {
+      "name": "Organizar la ropa en el armario",
+      "image": "dist/tasks/Organizar-la-ropa-en-el-armario.png"
+    },
+    {
+      "name": "Organizar las herramientas",
+      "image": "dist/tasks/Organizar-las-herramientas.png"
+    },
+    {
+      "name": "Organizar los alimentos en el refrigerador",
+      "image": "dist/tasks/Organizar-los-alimentos-en-el-refrigerador.png"
+    },
+    {
+      "name": "Organizar los cojines del sofá",
+      "image": "dist/tasks/Organizar-los-cojines-del-sofa.png"
+    },
+    {
+      "name": "Organizar los documentos",
+      "image": "dist/tasks/Organizar-los-documentos.png"
+    },
+    {
+      "name": "Organizar los libros y revistas",
+      "image": "dist/tasks/Organizar-los-libros-y-revistas.png"
+    },
+    {
+      "name": "Organizar los manteles y servilletas",
+      "image": "dist/tasks/Organizar-los-manteles-y-servilletas.png"
+    },
+    {
+      "name": "Organizar los muebles de jardín",
+      "image": "dist/tasks/Organizar-los-muebles-de-jardin.png"
+    },
+    {
+      "name": "Organizar los objetos de almacenamiento",
+      "image": "dist/tasks/Organizar-los-objetos-de-almacenamiento.png"
+    },
+    {
+      "name": "Organizar los productos de higiene personal",
+      "image": "dist/tasks/Organizar-los-productos-de-higiene-personal.png"
+    },
+    {
+      "name": "Organizar los productos de limpieza",
+      "image": "dist/tasks/Organizar-los-productos-de-limpieza.png"
+    },
+    {
+      "name": "Organizar los zapatos",
+      "image": "dist/tasks/Organizar-los-zapatos.png"
+    },
+    {
+      "name": "Planificar el menú semanal",
+      "image": "dist/tasks/Planificar-el-menu-semanal.png"
+    },
+    {
+      "name": "Podar las plantas",
+      "image": "dist/tasks/Podar-las-plantas.png"
+    },
+    {
+      "name": "Poner la alarma del despertador",
+      "image": "dist/tasks/Poner-la-alarma-del-despertador.png"
+    },
+    {
+      "name": "Preparar el almuerzo",
+      "image": "dist/tasks/Preparar-el-almuerzo.png"
+    },
+    {
+      "name": "Preparar el área para la próxima comida",
+      "image": "dist/tasks/Preparar-el-area-para-la-proxima-comida.png"
+    },
+    {
+      "name": "Preparar el desayuno",
+      "image": "dist/tasks/Preparar-el-desayuno.png"
+    },
+    {
+      "name": "Recoger la ropa sucia",
+      "image": "dist/tasks/Recoger-la-ropa-sucia.png"
+    },
+    {
+      "name": "Recoger los cables sueltos",
+      "image": "dist/tasks/Recoger-los-cables-sueltos.png"
+    },
+    {
+      "name": "Recoger los juguetes o herramientas",
+      "image": "dist/tasks/Recoger-los-juguetes-o-herramientas.png"
+    },
+    {
+      "name": "Recoger los objetos fuera de lugar",
+      "image": "dist/tasks/Recoger-los-objetos-fuera-de-lugar.png"
+    },
+    {
+      "name": "Recoger los platos sucios",
+      "image": "dist/tasks/Recoger-los-platos-sucios.png"
+    },
+    {
+      "name": "Regar las plantas",
+      "image": "dist/tasks/Regar-las-plantas.png"
+    },
+    {
+      "name": "Reponer el papel higiénico",
+      "image": "dist/tasks/Reponer-el-papel-higienico.png"
+    },
+    {
+      "name": "Reponer los elementos necesarios (sal, pimienta, etc.)",
+      "image": "dist/tasks/Reponer-los-elementos-necesarios-sal-pimienta-etc.png"
+    },
+    {
+      "name": "Reponer los suministros necesarios (ej. post-it)",
+      "image": "dist/tasks/Reponer-los-suministros-necesarios-ej-post-it.png"
+    },
+    {
+      "name": "Revisar la agenda y hacer planes",
+      "image": "dist/tasks/Revisar-la-agenda-y-hacer-planes.png"
+    },
+    {
+      "name": "Revisar y desechar productos viejos",
+      "image": "dist/tasks/Revisar-y-desechar-productos-viejos.png"
+    },
+    {
+      "name": "Revisar y ordenar el correo",
+      "image": "dist/tasks/Revisar-y-ordenar-el-correo.png"
+    },
+    {
+      "name": "Revisar y organizar los estantes",
+      "image": "dist/tasks/Revisar-y-organizar-los-estantes.png"
+    },
+    {
+      "name": "Revisar y reparar las luces exteriores",
+      "image": "dist/tasks/Revisar-y-reparar-las-luces-exteriores.png"
+    },
+    {
+      "name": "Sacar la basura",
+      "image": "dist/tasks/Sacar-la-basura.png"
+    },
+    {
+      "name": "Tomar medicamentos",
+      "image": "dist/tasks/Tomar-medicamentos.png"
+    },
+    {
+      "name": "Tomar una taza de té o café",
+      "image": "dist/tasks/Tomar-una-taza-de-te-o-cafe.png"
+    },
+    {
+      "name": "Ventilar el área",
+      "image": "dist/tasks/Ventilar-el-area.png"
+    },
+    {
+      "name": "Ventilar la habitación",
+      "image": "dist/tasks/Ventilar-la-habitacion.png"
+    },
+    {
+      "name": "Ver televisión",
+      "image": "dist/tasks/Ver-television.png"
     }
   ]
 }
