@@ -1,9 +1,8 @@
 {
   "name": "Lectogram Pictograms",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "authors": [
-    "Herbert Spencer",
-    "Martina Spencer"
+    "Herbert Spencer"
   ],
   "branding": {
     "png": {
