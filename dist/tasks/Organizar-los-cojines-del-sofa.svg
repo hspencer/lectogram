@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pictos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-2" x="43.19" y="107.54" width="11.26" height="4.03" rx="2.02" ry="2.02" transform="translate(-66.74 141.68) rotate(-81.52)"/>
+    <rect class="cls-2" x="96.94" y="107.54" width="11.26" height="4.03" rx="2.02" ry="2.02" transform="translate(9.35 227.17) rotate(-98.48)"/>
+  </g>
+  <rect class="cls-2" x="47.97" y="69.41" width="55.45" height="30.03" rx="8.83" ry="8.83"/>
+  <path class="cls-2" d="M101.29,80.93l-4.77,13.6h-41.64l-4.77-13.6c-1.37-3.9-5.65-5.96-9.55-4.59-3.9,1.37-5.96,5.65-4.59,9.55l8.29,23.62h62.88l8.29-23.62c1.37-3.9-.68-8.18-4.59-9.55-3.9-1.37-8.18.68-9.55,4.59h0Z"/>
+  <g>
+    <rect class="cls-2" x="50.96" y="86.44" width="24.74" height="13.01" rx="5.56" ry="5.56"/>
+    <rect class="cls-2" x="75.7" y="86.44" width="24.74" height="13.01" rx="5.56" ry="5.56"/>
+  </g>
+  <rect class="cls-2" x="55.67" y="41.54" width="26.03" height="24.74" rx="4.6" ry="4.6" transform="translate(-14.55 80.3) rotate(-55.72)"/>
+  <g>
+    <ellipse class="cls-3" cx="29.53" cy="25.22" rx="6.98" ry="6.99"/>
+    <path class="cls-3" d="M34.86,49.76l10.4,4.31,9.57-1.78c1.62-.3,3.14.89,3.24,2.54h0c.08,1.29-.75,2.45-1.99,2.81l-12.07,3.45-9.2-2.97"/>
+    <path class="cls-1" d="M13.29,115.15l4.26-21.41,2.16-23.46-.24-25.8c-.14-2.2,1.05-4.27,3.02-5.25h0c1.02-.51,2.16-.69,3.28-.52l6.08.94,14.83,2.94c1.51.3,3.08.14,4.51-.45l12.22-5.06c1.75-.73,3.75.22,4.29,2.04h0c.45,1.51-.26,3.12-1.67,3.81l-16.16,7.83h-15.01l6.27,63.78-6.2.18-6-37.62-4.11,19.9-5.39,18.14h-6.14Z"/>
+  </g>
+</svg>

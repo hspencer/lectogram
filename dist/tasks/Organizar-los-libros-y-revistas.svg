@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pictos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="59.64" y="29.82" width="7.02" height="20.52"/>
+  <rect class="cls-2" x="76.91" y="29.82" width="5.27" height="20.52"/>
+  <rect class="cls-2" x="82.18" y="29.82" width="5.27" height="20.52"/>
+  <rect class="cls-2" x="86.43" y="63.91" width="5.27" height="20.52"/>
+  <polygon class="cls-2" points="64.83 81.62 59.74 82.99 54.45 63.16 59.54 61.8 64.83 81.62"/>
+  <polygon class="cls-2" points="67.77 82.31 65.22 82.99 59.93 63.16 62.47 62.48 67.77 82.31"/>
+  <rect class="cls-2" x="91.7" y="60.35" width="7.68" height="24.08"/>
+  <rect class="cls-2" x="87.44" y="29.82" width="5.27" height="20.52"/>
+  <rect class="cls-2" x="76.7" y="67.63" width="3.24" height="16.81"/>
+  <rect class="cls-2" x="79.95" y="67.63" width="3.24" height="16.81"/>
+  <rect class="cls-2" x="83.19" y="67.63" width="3.24" height="16.81"/>
+  <polygon class="cls-2" points="97.96 50.58 93.08 48.59 100.8 29.58 105.68 31.57 97.96 50.58"/>
+  <path class="cls-2" d="M44.95,12.77v102.51h8.41v-27.38h52.89v27.38h8.41V12.77H44.95ZM106.26,83.69h-52.89v-29.14h52.89v29.14ZM106.26,50.34h-52.89v-29.14h52.89v29.14Z"/>
+  <g>
+    <ellipse class="cls-3" cx="28.19" cy="25.62" rx="6.96" ry="6.97"/>
+    <path class="cls-3" d="M33.51,50.08l10.37,4.29,9.54-1.77c1.62-.3,3.13.89,3.23,2.54h0c.08,1.28-.75,2.44-1.98,2.8l-12.03,3.44-9.17-2.96"/>
+    <path class="cls-1" d="M12,115.28l4.25-21.35,2.15-23.39-.24-25.73c-.14-2.19,1.05-4.25,3.01-5.24h0c1.01-.51,2.16-.69,3.28-.51l6.06.93,14.78,2.93c1.51.3,3.07.14,4.49-.44l12.19-5.05c1.75-.72,3.73.22,4.28,2.04h0c.45,1.5-.26,3.11-1.67,3.8l-16.11,7.81h-14.97l6.26,63.6-6.18.18-5.98-37.51-4.1,19.85-5.38,18.09h-6.12Z"/>
+  </g>
+</svg>
