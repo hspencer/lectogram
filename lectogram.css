@@ -4,15 +4,15 @@
 /* Variables de color */
 :root {
     --color-bathroom: rgb(4, 169, 210);
-    --color-bedroom: rgb(237, 131, 11);
-    --color-kitchen: rgb(255, 228, 26);
-    --color-living-room: rgb(255, 58, 58);
-    --color-garden: rgb(19, 118, 8);
-    --color-corridor: rgb(97, 97, 97);   
-    --color-garage: rgb(8, 84, 76);
+    --color-bedroom: rgb(200, 109, 5);
+    --color-kitchen: rgb(210, 186, 9);
+    --color-living-room: rgb(245, 88, 88);
+    --color-garden: rgb(48, 118, 8);
+    --color-corridor: rgb(96, 186, 150);   
+    --color-garage: rgb(48, 59, 58);
     --color-laundry: rgb(13, 75, 137);
-    --color-study: rgb(189, 39, 219);
-    --color-dining-room: rgb(88, 118, 240);
+    --color-study: rgb(103, 26, 219);
+    --color-dining-room: rgb(31, 69, 221);
 }
 
 
@@ -44,10 +44,11 @@ body {
     align-items: center;
     padding: 2em;
     gap: 2em;
-    box-shadow: 0 0 10px #0008;
+    box-shadow: 0 0 10px #0003;
     border-radius: 1ex;
     width: 26rem;
     background-color: white;
+    border: 3px solid rgb(199, 199, 199)
 }
 
 
