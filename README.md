@@ -12,6 +12,9 @@ Este repositorio contiene los archivos de:
 - [Lugares](places.md)
 - [Rutinas](tasks.md)
 
+Los lugares pueden identificarse con color (aunque los pictogramas originales sean en blanco y negro) al aplicar estilos CCS especiales: [Ver demostración](https://hspencer.github.io/lectogram).
+
+
 ## Estructura del repositorio
 - `src/`: Contiene los archivos fuente en formato .ai (Adobe Illustrator).
   - `lectogram-branding.ai`: Logo e isotipo de marca.
