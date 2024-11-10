@@ -78,7 +78,7 @@ body {
 .task-container .pictogram{
     width: 6rem; 
     height: 6rem;
-    filter: contrast(.9) drop-shadow(0 0 3px #0009);
+    filter: contrast(.75) drop-shadow(0 0 3px #0009);
 }
 
 .task-container .pictogram-wrapper::before{
@@ -93,7 +93,7 @@ body {
     font-size: 2rem;
     font-weight: 300;
     text-align: left;
-    width: 8rem;
+    width: 14rem;
     text-shadow: 1px 1px 2px #0004;
 }
 
