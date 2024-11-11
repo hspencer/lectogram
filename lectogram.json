@@ -27,43 +27,43 @@
   "places": [
     {
       "name": "Baño",
-      "image": "dist/places/places_bathroom.png"
+      "image": "dist/places/bathroom.png"
     },
     {
       "name": "Dormitorio",
-      "image": "dist/places/places_bedroom.png"
+      "image": "dist/places/bedroom.png"
     },
     {
       "name": "Pasillo",
-      "image": "dist/places/places_corridor.png"
+      "image": "dist/places/corridor.png"
     },
     {
       "name": "Comedor",
-      "image": "dist/places/places_dining-room.png"
+      "image": "dist/places/dining-room.png"
     },
     {
       "name": "Garaje",
-      "image": "dist/places/places_garage.png"
+      "image": "dist/places/garage.png"
     },
     {
       "name": "Jardín",
-      "image": "dist/places/places_garden.png"
+      "image": "dist/places/garden.png"
     },
     {
       "name": "Cocina",
-      "image": "dist/places/places_kitchen.png"
+      "image": "dist/places/kitchen.png"
     },
     {
       "name": "Lavandería",
-      "image": "dist/places/places_laundry.png"
+      "image": "dist/places/laundry.png"
     },
     {
       "name": "Sala de estar",
-      "image": "dist/places/places_living-room.png"
+      "image": "dist/places/living-room.png"
     },
     {
       "name": "Escritorio",
-      "image": "dist/places/places_study.png"
+      "image": "dist/places/study.png"
     }
   ],
   "tasks": [
@@ -71,11 +71,9 @@
       "name": "Apagar las luces antes de dormir",
       "image": "dist/tasks/Apagar-las-luces-antes-de-dormir.png",
       "places": [
-        "Baño",
         "Dormitorio",
         "Pasillo",
         "Comedor",
-        "Garaje",
         "Jardín",
         "Cocina",
         "Lavandería",
@@ -88,7 +86,8 @@
       "image": "dist/tasks/Apagar-los-dispositivos-electronicos-al-final-del-dia.png",
       "places": [
         "Dormitorio",
-        "Sala de estar"
+        "Sala de estar",
+        "Escritorio"
       ]
     },
     {
@@ -96,22 +95,17 @@
       "image": "dist/tasks/Apagar-los-dispositivos-electronicos.png",
       "places": [
         "Dormitorio",
-        "Sala de estar"
+        "Sala de estar",
+        "Escritorio"
       ]
     },
     {
       "name": "Barrer el suelo",
       "image": "dist/tasks/Barrer-el-suelo.png",
       "places": [
-        "Baño",
-        "Dormitorio",
-        "Pasillo",
-        "Comedor",
         "Garaje",
         "Cocina",
-        "Lavandería",
-        "Sala de estar",
-        "Escritorio"
+        "Jardín"
       ]
     },
     {
@@ -123,7 +117,6 @@
         "Pasillo",
         "Comedor",
         "Garaje",
-        "Jardín",
         "Cocina",
         "Lavandería",
         "Sala de estar",
@@ -141,8 +134,7 @@
       "name": "Cambiar las toallas",
       "image": "dist/tasks/Cambiar-las-toallas.png",
       "places": [
-        "Baño",
-        "Lavandería"
+        "Baño"
       ]
     },
     {
@@ -194,7 +186,8 @@
       "name": "Guardar los objetos personales",
       "image": "dist/tasks/Guardar-los-objetos-personales.png",
       "places": [
-        "Dormitorio"
+        "Dormitorio",
+        "Escritorio"
       ]
     },
     {
@@ -260,7 +253,8 @@
       "places": [
         "Sala de estar",
         "Comedor",
-        "Cocina"
+        "Cocina",
+        "Escritorio"
       ]
     },
     {
@@ -280,7 +274,6 @@
         "Dormitorio",
         "Pasillo",
         "Comedor",
-        "Garaje",
         "Cocina",
         "Lavandería",
         "Sala de estar",
@@ -292,14 +285,9 @@
       "image": "dist/tasks/Limpiar-el-suelo.png",
       "places": [
         "Baño",
-        "Dormitorio",
-        "Pasillo",
-        "Comedor",
         "Garaje",
         "Cocina",
-        "Lavandería",
-        "Sala de estar",
-        "Escritorio"
+        "Lavandería"
       ]
     },
     {
@@ -334,7 +322,8 @@
       "name": "Limpiar la mesa después de comer",
       "image": "dist/tasks/Limpiar-la-mesa-despues-de-comer.png",
       "places": [
-        "Comedor"
+        "Comedor",
+        "Cocina"
       ]
     },
     {
@@ -358,7 +347,7 @@
       "image": "dist/tasks/Limpiar-los-contenedores-de-almacenamiento.png",
       "places": [
         "Dormitorio",
-        "Garage",
+        "Garaje",
         "Pasillo",
         "Lavandería"
       ]
@@ -375,7 +364,8 @@
       "image": "dist/tasks/Limpiar-los-espejos.png",
       "places": [
         "Baño",
-        "Dormitorio"
+        "Dormitorio",
+        "Pasillo"
       ]
     },
     {
@@ -460,7 +450,8 @@
       "name": "Organizar los libros y revistas",
       "image": "dist/tasks/Organizar-los-libros-y-revistas.png",
       "places": [
-        "Sala de estar"
+        "Sala de estar",
+        "Escritorio"
       ]
     },
     {
@@ -482,7 +473,8 @@
       "image": "dist/tasks/Organizar-los-objetos-de-almacenamiento.png",
       "places": [
         "Lavandería",
-        "Pasillo"
+        "Pasillo",
+        "Garaje"
       ]
     },
     {
@@ -555,8 +547,7 @@
       "image": "dist/tasks/Recoger-la-ropa-sucia.png",
       "places": [
         "Baño",
-        "Dormitorio",
-        "Lavandería"
+        "Dormitorio"
       ]
     },
     {
@@ -564,7 +555,8 @@
       "image": "dist/tasks/Recoger-los-cables-sueltos.png",
       "places": [
         "Escritorio",
-        "Sala de estar"
+        "Sala de estar",
+        "Dormitorio"
       ]
     },
     {
@@ -632,7 +624,8 @@
       "image": "dist/tasks/Revisar-y-desechar-productos-viejos.png",
       "places": [
         "Lavandería",
-        "Cocina"
+        "Cocina",
+        "Garaje"
       ]
     },
     {
@@ -650,15 +643,14 @@
         "Dormitorio",
         "Cocina",
         "Lavandería",
-        "Sala de estar"
+        "Pasillo"
       ]
     },
     {
       "name": "Revisar y reparar las luces exteriores",
       "image": "dist/tasks/Revisar-y-reparar-las-luces-exteriores.png",
       "places": [
-        "Jardín",
-        "Garaje"
+        "Jardín"
       ]
     },
     {
@@ -694,11 +686,8 @@
       "places": [
         "Baño",
         "Dormitorio",
-        "Pasillo",
         "Comedor",
-        "Garaje",
         "Cocina",
-        "Lavandería",
         "Sala de estar",
         "Escritorio"
       ]
@@ -707,14 +696,17 @@
       "name": "Ventilar la habitación",
       "image": "dist/tasks/Ventilar-la-habitacion.png",
       "places": [
-        "Dormitorio"
+        "Dormitorio",
+        "Escritorio",
+        "Cocina"
       ]
     },
     {
       "name": "Ver televisión",
       "image": "dist/tasks/Ver-television.png",
       "places": [
-        "Sala de estar"
+        "Sala de estar",
+        "Dormitorio"
       ]
     }
   ]
