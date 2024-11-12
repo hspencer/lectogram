@@ -27,7 +27,7 @@ Los lugares pueden identificarse con color (aunque los pictogramas originales se
 - `[lectogram.json](lectogram.json)`: Archivo JSON con la con la biblioteca visual de lectogram (marca y pictogramas).
 
 ## Uso
-Para utilizar los íconos en tu proyecto, importa el archivo [lectogram.json](lectogram.json) donde define los archivos de marca, de [lugares](places.md) y las [rutinas](tasks.md). En este archivo se define que lugares ocurren determinadas rutinas.
+Para utilizar los íconos en tu proyecto, importa el archivo **[lectogram.json](lectogram.json)** donde define los archivos de marca, de [lugares](places.md) y las [rutinas](tasks.md). En este archivo se define qué lugares ocurren determinadas rutinas. El [demo](https://hspencer.github.io/lectogram) se construye a partir de la estructura de este archivo.
 
 #### Licencia
 
