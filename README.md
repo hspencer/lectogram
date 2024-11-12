@@ -24,10 +24,10 @@ Los lugares pueden identificarse con color (aunque los pictogramas originales se
   - `branding/`: Pictogramas de marca optimizados (png, svg).
   - `places/`: Pictogramas de lugares optimizados.
   - `tasks/`: Pictogramas de tareas optimizados.
-- `lectogram.json`: Archivo JSON con la con la biblioteca visual de lectogram (marca y pictogramas).
+- `[lectogram.json](lectogram.json)`: Archivo JSON con la con la biblioteca visual de lectogram (marca y pictogramas).
 
 ## Uso
-Para utilizar los íconos en tu proyecto, simplemente importa los archivos SVG desde la carpeta `dist` como paquete a partir de [lectogram.json](lectogram.json).
+Para utilizar los íconos en tu proyecto, importa el archivo [lectogram.json](lectogram.json) donde define los archivos de marca, de [lugares](places.md) y las [rutinas](tasks.md). En este archivo se define que lugares ocurren determinadas rutinas.
 
 #### Licencia
 
