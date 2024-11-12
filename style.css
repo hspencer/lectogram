@@ -109,11 +109,11 @@ div.place-bathroom > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-bathroom > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -140,11 +140,11 @@ div.place-bedroom > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-bedroom > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -171,11 +171,11 @@ div.place-kitchen > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-kitchen > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -202,11 +202,11 @@ div.place-living-room > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-living-room > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -233,11 +233,11 @@ div.place-garden > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-garden > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -264,11 +264,11 @@ div.place-corridor > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-corridor > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -295,11 +295,11 @@ div.place-garage > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-garage > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -326,11 +326,11 @@ div.place-laundry > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-laundry > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -357,11 +357,11 @@ div.place-study > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-study > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;
@@ -388,11 +388,11 @@ div.place-dining-room > .tasks-drawer .pictogram-wrapper::before {
   left: 0;
   right: 0;
   bottom: 0;
-  border-radius: 8px;
+  border-radius: 50%;
   background-color: white;
   mix-blend-mode: screen;
-  filter: blur(13px);
-  opacity: 0.43;
+  filter: blur(2px);
+  opacity: 0.6;
 }
 div.place-dining-room > .tasks-drawer .pictogram-wrapper .pictogram {
   opacity: 0.85;

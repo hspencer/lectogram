@@ -132,7 +132,6 @@ h3 {
       background-color: rgba-list($color, .333);
 
       .pictogram-wrapper{
-        
         &::before{
           content: '';
           position: absolute;
@@ -140,11 +139,11 @@ h3 {
           left: 0;
           right: 0;
           bottom: 0;
-          border-radius: 8px;
+          border-radius: 50%;
           background-color: white;
           mix-blend-mode: screen;
-          filter: blur(13px);
-          opacity: .43;
+          filter: blur(2px);
+          opacity: .6;
         }
         .pictogram{
           opacity: 0.85;
