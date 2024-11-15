@@ -2,8 +2,6 @@
 
 ## Licencia de Uso
 
-### Copyright
-
 **© 2024 Universidad de las Américas de Chile. Autor: Herbert Spencer. Creative Commons 4.0 BY SA**
 
 Este repositorio y su contenido, incluyendo todos los pictogramas, son propiedad intelectual de la Universidad de las Américas de Chile, desarrollado bajo el proyecto FONDEF ID23I10034 a cargo de la investigadora Izaskun Álvarez-Aguado, y cuyo derecho de autor pertenece a Herbert Spencer González. 
