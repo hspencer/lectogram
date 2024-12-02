@@ -24,6 +24,20 @@
       "lectogram_logo_sq": "dist/branding/svg/lectogram_logo-sq.svg"
     }
   },
+  "buildings": [
+    {
+      "name": "Casa",
+      "image": "dist/buildings/house.png"
+    },
+    {
+      "name": "Edificio",
+      "image": "dist/buildings/building.png"
+    },
+    {
+      "name": "Hogar",
+      "image": "dist/buildings/hospice.png"
+    }
+  ],
   "places": [
     {
       "name": "Baño",

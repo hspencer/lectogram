@@ -9,6 +9,7 @@ Lectogram es un proyecto diseñado para generar apoyos procedimentales para adul
 
 Este repositorio contiene los archivos de:
 - [Marca Lectogram](branding.md)
+- [Edificios](buildings.md)
 - [Lugares](places.md)
 - [Rutinas](tasks.md)
 
@@ -18,12 +19,14 @@ Los lugares pueden identificarse con color (aunque los pictogramas originales se
 ## Estructura del repositorio
 - `src/`: Contiene los archivos fuente en formato .ai (Adobe Illustrator).
   - `lectogram-branding.ai`: Logo e isotipo de marca.
-  - `places.ai`: Pictogramas de lugares.
+  - `buildings.ai`: Pictogramas de tipos de edificios.
+  - `places.ai`: Pictogramas de lugares interiores o habitaciones.
   - `tasks.ai`: Pictogramas de tareas.
 - `dist/`: Contiene los archivos optimizados en formato .svg.
   - `branding/`: Pictogramas de marca optimizados (png, svg).
-  - `places/`: Pictogramas de lugares optimizados.
-  - `tasks/`: Pictogramas de tareas optimizados.
+  - `buildings/`: Pictogramas de edificios.
+  - `places/`: Pictogramas de lugares.
+  - `tasks/`: Pictogramas de tareas.
 - `[lectogram.json](lectogram.json)`: Archivo JSON con la con la biblioteca visual de lectogram (marca y pictogramas).
 
 ## Uso
